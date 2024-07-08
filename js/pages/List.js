@@ -100,16 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Must be COMPLETELY dual
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        2 Player levels ARE allowed and ENCOURAGED
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Must have cheat indicator on, if you have megahack or QOL mod
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Must have the footage of the attempt before, exception is if it was your first attempt
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
@@ -118,10 +118,10 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Levels could be any length
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Have fun!
                     </p>
                 </div>
             </div>
