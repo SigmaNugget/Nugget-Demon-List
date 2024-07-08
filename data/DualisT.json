@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Phantom",
+            "link": "youtube.com/video/OC6JKR3FXzI/edit",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+    
 }
