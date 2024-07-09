@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "Phantom",
-            "link": "youtube.com/video/OC6JKR3FXzI/edit",
+            "link": "youtube.com/video/OC6JKR3FXzI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RedIntention",
+            "link": "https://www.youtube.com/watch?v=nLhY3okDCpo",
+            "percent": 100,
+            "hz": 120
         }
     ]
     
