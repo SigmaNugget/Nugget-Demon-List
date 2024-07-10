@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Must be COMPLETELY dual
+                        Must be COMPLETELY dual, exceptions include if the non-dual parts have no gameplay in them, no clicks or taps needed.
                     </p>
                     <p>
                         2 Player levels ARE allowed and ENCOURAGED
