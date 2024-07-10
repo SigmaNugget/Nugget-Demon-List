@@ -2,7 +2,7 @@
     "id": 107643841 ,
     "name": "Two Men",
     "author": "INSANEMELTON",
-    "creators": ["INSANEMELTON"],
+    "creators": ["INSANEMELTON, Phantom"],
     "verifier": "INSANEMELTON",
     "verification": "https://www.youtube.com/watch?v=cJN9TgnLyrk",
     "percentToQualify": 100,
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=JFuFcp6Q_MI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RedIntention",
+            "link": "https://www.youtube.com/watch?v=5U7sgoAGZww",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
