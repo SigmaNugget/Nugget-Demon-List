@@ -106,7 +106,7 @@ export default {
                         2 Player levels ARE allowed and ENCOURAGED
                     </p>
                     <p>
-                        Must have cheat indicator on, if you have megahack or QOL mod
+                        You must get the coin for the level "Two Men"
                     </p>
                     <p>
                         Must have the footage of the attempt before, exception is if it was your first attempt
