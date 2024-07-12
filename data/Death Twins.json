@@ -1,0 +1,18 @@
+{
+    "id": 107724353,
+    "name": "Death Twins",
+    "author": "Dashasqua",
+    "creators": ["Dashasqua"],
+    "verifier": "Dashasqua",
+    "verification": "https://youtu.be/YGvBLNt6RlI",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/HR33wl8-y7Q",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

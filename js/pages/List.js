@@ -109,7 +109,7 @@ export default {
                         You must get the coin for the level "Two Men"
                     </p>
                     <p>
-                        Must have the footage of the attempt before, exception is if it was your first attempt
+                        Levels shouldn't be too repetitive, such as the same gameplay in a row.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
