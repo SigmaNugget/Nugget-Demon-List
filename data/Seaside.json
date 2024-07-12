@@ -1,0 +1,18 @@
+{
+    "id": 107695859,
+    "name": "Seaside",
+    "author": "Poxpat",
+    "creators": ["Poxpat"],
+    "verifier": "Poxpat",
+    "verification": "https://www.youtube.com/watch?v=Irti8C-vvQ0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=YGnoncl4OYY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
