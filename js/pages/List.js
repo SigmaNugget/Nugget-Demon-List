@@ -112,17 +112,20 @@ export default {
                         Levels shouldn't be too repetitive, such as the same gameplay in a row.
                     </p>
                     <p>
+                        You must show at least one attempt before the completion or it will be invalidated.
+                    </p>
+                    <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Levels could be any length
-                    </p>
+                        Levels may be any length
+                   </p>
                     <p>
-                        Have fun!
-                    </p>
+                       Have Fun
+                       <p>
                 </div>
             </div>
         </main>
