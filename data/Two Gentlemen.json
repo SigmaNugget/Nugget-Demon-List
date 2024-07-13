@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "RedIntention",
+            "link": "https://www.youtube.com/watch?v=RG7Yx5NbkZ0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "id": 107767267,
+    "name": "Second People Person",
+    "author": "Monstrosity",
+    "creators": ["Monstrosity"],
+    "verifier": "Monstrosity",
+    "verification": "https://youtu.be/fUQR3nsLRYA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=euBAONBYxlA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
