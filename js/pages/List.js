@@ -103,7 +103,7 @@ export default {
                         Must be COMPLETELY dual, exceptions include if the non-dual parts have no gameplay in them, no clicks or taps needed.
                     </p>
                     <p>
-                        2 Player levels ARE allowed and ENCOURAGED
+                        2 Player levels ARE allowed
                     </p>
                     <p>
                         You must get the coin for the level "Two Men"
