@@ -1,0 +1,25 @@
+{
+    "id": 107863587,
+    "name": "Gold",
+    "author": "Zippiks",
+    "creators": ["Zippiks"],
+    "verifier": "Zippiks",
+    "verification": "https://youtu.be/gUis5_KEowk",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "RedIntention",
+            "link": "https://www.youtube.com/watch?v=Lyx5QisCqr8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RedIntention",
+            "link": "youtube.com/video/PWttmGUE6oE",
+            "percent": 100,
+            "hz": 240
+        }
+           
+    ]
+}
