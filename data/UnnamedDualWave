@@ -1,0 +1,18 @@
+{
+    "id": 107821309,
+    "name": "UnnamedDualWave",
+    "author": "INSANEMELTON",
+    "creators": ["INSANEMELTON"],
+    "verifier": "INSANEMELTON",
+    "verification": "https://youtu.be/bRW3oDSRfCs",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=TGgTPuDrd1M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
