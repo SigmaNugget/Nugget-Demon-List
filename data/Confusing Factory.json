@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=FW1tFr5vsI4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RedIntention",
+            "link": "https://www.youtube.com/watch?v=b_0bLdXDx8s",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

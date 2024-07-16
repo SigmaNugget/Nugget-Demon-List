@@ -19,7 +19,12 @@
             "link": "youtube.com/video/PWttmGUE6oE",
             "percent": 100,
             "hz": 240
-        }
-           
+        },
+        {
+            "user": "Semify",
+            "link": "youtube.com/video/CJ1r_GIwCE0/",
+            "percent": 100,
+            "hz": 240
+        }  
     ]
 }
