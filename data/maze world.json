@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Vinkii",
+            "link": "https://www.youtube.com/watch?v=K4Itbbjl7go",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
