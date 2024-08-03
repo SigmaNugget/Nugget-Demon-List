@@ -1,0 +1,24 @@
+{
+    "id": 108585009,
+    "name": "Meta quest 2",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://youtu.be/Tc2ZLGmlOGQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Vinkii",
+            "link": "https://youtu.be/szpEM32zZr4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=QekZlCt_uaY ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
