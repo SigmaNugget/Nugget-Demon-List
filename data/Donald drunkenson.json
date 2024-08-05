@@ -1,0 +1,18 @@
+{
+    "id": 108662219,
+    "name": "Donald drunkenson",
+    "author": "zedit",
+    "creators": ["zedit"],
+    "verifier": "zedit",
+    "verification": "https://www.youtube.com/watch?v=kLTPRpPQ9b0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=qxhPgF25vvY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
